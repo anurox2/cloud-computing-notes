@@ -35,3 +35,11 @@ Cloud computing
 - Auction edge server resources: An edge client (mobile/cell phone) wants to use an API and would have to pay for it. But if there was an auction which offers the service (API) to the users by letting them place bids, the API provider will know if someone would like to pay more for the service.
   - But you can't place a high bid, because that's called a untruthful bid, and the only entity losing money would be the user.
   - You can place a lower bid, but the probability of it getting selected is lower.
+
+---
+
+---
+
+### Date: Aug 26th 2020
+
+- MITRE Att&ck: A website listing attacks, vulnerabilities and their definitions.
